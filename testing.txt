@@ -4,3 +4,5 @@ You can write anything over here.
 This is second commit.
 
 This is new addition by developer.
+
+New text by developer.
