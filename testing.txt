@@ -6,3 +6,5 @@ This is second commit.
 This is new addition by developer.
 
 New text by developer.
+
+New line by design branch.
