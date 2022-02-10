@@ -10,3 +10,4 @@ New text by developer.
 New line by design branch.
 
 This is request by another developer.
+Another line by dev2.
