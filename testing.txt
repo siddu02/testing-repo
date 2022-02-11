@@ -13,3 +13,5 @@ This is request by another developer.
 Another line by dev2.
 
 Line for fixing issue.
+
+New Additing by developer1.
